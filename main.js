@@ -80,7 +80,6 @@ class AdvancedArrowsSettingTab extends PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    containerEl.createEl("h2", { text: "Advanced Arrows Settings" });
 
     containerEl.createEl("p", { text: "Always active replacements:" });
     const list = containerEl.createEl("ul");
