@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "author": "JD",
-  "description": "replace text with unicode arrows",
+  "description": "Replace text with unicode arrows.",
   "isDesktopOnly": false
 }
